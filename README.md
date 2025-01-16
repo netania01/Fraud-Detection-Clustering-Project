@@ -11,7 +11,7 @@ Proyek ini berfokus pada pengelompokan data transaksi untuk mengidentifikasi pot
 
 ## Technologies Used
 - Programming Language: Python
-- Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, sciki learn, Scipy. 
+- Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Scipy. 
 
 
 
